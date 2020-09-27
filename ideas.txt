@@ -13,3 +13,8 @@ Magic Mirror App, or whatever they call that - (place a micro-computer in a mirr
 Multiplayer Conway's Game of Life (multiple colored blocks to denote that player's score)
 
 That laundromat/ dry-cleaning project the professor posted about didn't sound like a bad idea.
+
+
+Amazon Reseller App
+
+Use Amazons API to rank books/other items based on how proiftable they have been in the past. 
