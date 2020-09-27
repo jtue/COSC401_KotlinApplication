@@ -1,0 +1,15 @@
+FoodMe
+I have an idea where we make a software as a service (SAAS) that restaurants can easily integrate into their phone apps that lets people order food from a seat   `instead of talking to the waiter/waitress. I was thinking about how sunspot pulls up a menu through a QR code. What if you just begin an order when you scan a QR code and you can even link your debit card to it and order without debit card transaction?
+
+CrossChat
+We make an application on Playstation, Xbox, and computer for people to talk to each other rather than using game chat, because party chat always sounds better. As a way to make money to pay for servers, we sell voice presets for 5-10 dollars that make people sound like T-Pain or Travis Scott or something. Even more than that, we can move CrossChat to all sorts of things like phone. Basically we just make the ultimate party chat application that can be used with multiple devices.
+
+
+
+A game of some kind (educational if we must)
+
+Magic Mirror App, or whatever they call that - (place a micro-computer in a mirror to display info such as weather, tasks, reminders, lists, etc.) (I suppose the main part of our project would be a UI to make it possible for anyone to edit the display's contents.)
+
+Multiplayer Conway's Game of Life (multiple colored blocks to denote that player's score)
+
+That laundromat/ dry-cleaning project the professor posted about didn't sound like a bad idea.
