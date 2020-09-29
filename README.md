@@ -9,7 +9,7 @@ https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
 https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
 ## Basic Roadmap: Always WIP:
-## SOON:
+## Soon:
 Get Everyone set up GitRepo with AndroidStudios
 
 Have everyone Pull test files
@@ -22,7 +22,7 @@ Basic app layout
 
 Use Flutter/Kivy to design UI
 
-Connect app to server. Use MongoDB for menu database
+Connect app to server. Use MongoDB for menu/customer/whatever we need database
 
 ## Furthest
 Populate database with fake users
