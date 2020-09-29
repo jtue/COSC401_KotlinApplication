@@ -1,5 +1,5 @@
-##Basic Roadmap: Always WIP:
-#SOON:
+## Basic Roadmap: Always WIP:
+## SOON:
 Get Everyone set up GitRepo with AndroidStudios
 
 Have everyone Pull test files
@@ -7,17 +7,17 @@ Have everyone Pull test files
 Figure out Idea (FoodMe, MarketReseller etc.) 
 
 
-##Further Ahead
+## Further Ahead
 Basic app layout
 
 Use Flutter/Kivy to design UI
 
 Connect app to server. Use MongoDB for menu database
 
-##Furthest
+## Furthest
 Populate database with fake users
 
-##Last Steps
+## Last Steps
 Possible Swift Port for iOS
 
 Add real customers 
